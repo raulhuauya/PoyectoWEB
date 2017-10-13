@@ -1,0 +1,90 @@
+.portada {
+ 	list-style:none;
+	margin:0;
+	padding:0;	
+	font-family: “Trebuchet MS”, Arial;	
+	display:block;
+	padding:8px 0;	
+	text-align:left;
+	font-size:12px;	
+	font-weight:bold;		
+	background-color:#f0f0f0;	
+	background-repeat: repeat;
+}
+.portada a{color:#000000;text-decoration:underline;}
+.seccionnosotros {
+ 	list-style:none;
+	margin:0;
+	padding:0;	
+	font-family: “Trebuchet MS”, Arial;	
+	display:block;
+	padding:8px 0;	
+	text-align:left;
+	font-size:12px;	
+	font-weight:bold;		
+	background-color:#ffffff;	
+	background-repeat: repeat;
+}
+.seccionnosotros a{color:#000000;text-decoration:underline;}
+.seccionconsulta {
+ 	list-style:none;
+	margin:0;
+	padding:0;	
+	font-family: “Trebuchet MS”, Arial;	
+	display:block;
+	padding:8px 0;	
+	text-align:right;
+	font-size:20px;	
+	font-weight:bold;		
+	background-color:#ffffff;	
+	background-repeat: repeat;
+}
+.seccionconsulta a{color:#000000;text-decoration:underline;}
+
+.seccionbaner {
+ 	list-style:none;
+	margin:0;
+	padding:0;	
+	font-family: “Trebuchet MS”, Arial;	
+	display:block;
+	padding:8px 0;	
+	text-align:right;
+	font-size:12px;	
+	font-weight:bold;		
+	background-color:#ffffff;	
+	background-repeat: repeat;
+}
+.seccionbaner a{color:#000000;text-decoration:underline;}
+
+.seccioncontenidoinferior
+{
+ 	list-style:none;
+	margin:0;
+	padding:0;	
+	font-family: “Trebuchet MS”, Arial;	
+	display:block;
+	padding:8px 0;	
+	text-align:left;
+	font-size:12px;				
+	background-color:#f0f0f0;	
+	background-repeat: repeat;
+}
+.sombra 
+{ 
+  width:90%;
+  color: #000; 
+  background: #ccc;
+}
+
+.sombra table 
+{ 
+  position: relative; 
+  left: +4px; 
+  top: +4px;
+  width: 100%;
+  background: #f0f0f0; 
+}
+
+
+
+ 

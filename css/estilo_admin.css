@@ -1,0 +1,51 @@
+/* esto es el estilo para el menu horizontal del index*/
+.encabezado
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:12px;	
+	color:#999999;		
+	font-weight: bold;
+}	
+.encabezado-iz-negro
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-iz-negro a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:12px;	
+	color:#000000;		
+	font-weight: bold;
+}
+.encabezado-center
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-center a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:12px;	
+	color:#000000;		
+	font-weight: bold;
+}	
+	
+

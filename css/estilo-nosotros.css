@@ -1,0 +1,126 @@
+/*estilo de la pagina NOSOTROS */
+.encabezado-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-nosotros a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:15px;	
+	color:#ffffff;		
+	font-weight: bold;
+
+ }
+ /*estilo de la pagina NOSOTROS */
+.titulo-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.titulo-nosotros a {
+		
+	display:block;
+	text-transform:uppercase;
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:15px;	
+	color:#666666;		
+	font-weight: bold;
+
+ }
+  /*estilo de la pagina NOSOTROS */
+.titulo2-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.titulo2-nosotros a {
+		
+	display:block;
+	text-transform:uppercase;
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:13px;	
+	color:#666666;		
+	font-weight: bold;
+
+ }
+ /*estilo de la pagina NOSOTROS */
+ /*estilo de la pagina NOSOTROS */
+.contenido-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-nosotros a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:justify;
+	font-size:12px;	
+	color:#666666;	
+
+ }
+  /*estilo de la pagina NOSOTROS */
+.contenido-centrado-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-centrado-nosotros a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:justify;
+	font-size:12px;	
+	color:#666666;	
+
+ }
+ /*estilo de la pagina NOSOTROS */
+.subtitulo-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.subtitulo-nosotros a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:15px;	
+	color:#666666;		
+	font-weight: bold;
+
+ }
+ 
+  /*estilo "volver"de la pagina NOSOTROS */
+.volver
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.volver a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:right;
+	font-size:12px;	
+	color:#666666;		
+	
+
+ }

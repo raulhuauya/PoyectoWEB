@@ -1,0 +1,504 @@
+/* esto es el estilo para el menu horizontal del index*/
+.encabezado
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:14px;	
+	color:#FFFfff;		
+	font-weight: bold;
+		
+	
+ }
+.encabezado a:hover 
+{
+color:#c0c0c0c0;
+text-align:center;
+font-size:15px;
+padding:9px 0;
+text-shadow:#333333;
+border-bottom:solid;
+border-color:#ffffff;
+background-image:url(../img/menu-fondo-haver.png)
+}
+/* esto es el estilo para las columnas laterales del index */
+.encabezado-columnas
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-columnas a {
+		
+	display:block;		
+	padding:2px 0;
+	text-decoration:none;
+	text-transform: uppercase;
+	text-align:center;
+	font-size:13px;			
+	font-weight: bold;
+	color:#FFFfff;	
+
+ }
+ /* esto es el estilo para las columnas laterales del index */
+.encabezado-columnas-izq
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-columnas-izq a {
+		
+	display:block;		
+	padding:2px 0;
+	text-decoration:none;
+	text-transform: uppercase;
+	text-align:left;
+	font-size:13px;			
+	font-weight: bold;
+	color:#FFFfff;	
+
+ }
+ 
+ /* esto es el estilo para los pie de pagina del index */
+/* estilo del titulo de pie de pagina */
+.piepagina1
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.piepagina1 a {
+		
+	display:block;		
+	padding:8px 0;
+	text-decoration:none;
+	text-transform: uppercase;
+	text-align:left;
+	font-size:15px;			
+	font-weight: bold;
+	color:#ffffff;	
+ }
+/* estilo de subtitulo de pie de pagina */
+.piepagina2
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.piepagina2 a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:2px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:12px;			
+	font-weight: bold;
+	color:#ffffff;	
+ }
+/* estilo de contenido de pie de pagina */
+.piepagina3
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.piepagina3 a {
+		
+	display:block;		
+	padding:2px 0;
+	text-decoration:none;
+	text-transform:capitalize;
+	text-align:left;
+	font-size:12px;			
+	font-weight: bold;
+	color:#ffffff;
+ }
+ 
+ 
+ .encabezado-banner
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-banner a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:16px;	
+	color:#666666;		
+	font-weight: bold;
+
+ }
+/* estilo del contenido de las tablas laterales del index */
+.contenidotablaslaterales
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenidotablaslaterales a {
+		
+	display:block;		
+	padding:8px 0;
+	text-decoration:none;
+	text-transform:capitalize;
+	text-align:center;
+	font-size:12px;			
+	font-weight: bold;
+	color:#666666;
+ } 
+
+/* estilo de las tablas de las columnas del index */ 
+ .contenidotablaslaterales-telefono
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenidotablaslaterales-telefono a {
+		
+	display:block;		
+	padding:8px 0;
+	text-decoration:none;
+	text-transform:capitalize;
+	text-align:left;
+	font-size:12px;			
+	font-weight: bold;
+	color:#666666;
+ } 
+
+/* estilo de las tablas de las columnas del index */		
+.tabla {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.tabla .modo1 {
+background-color: #FFFFFF;
+background-repeat: repeat-x;
+color: #34484E;
+font-family: “Trebuchet MS”, Arial;
+
+
+}
+.tabla .modo1 a {
+
+	display:block;		
+	padding:2px 0;
+	font-size:10px;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:left;			
+	font-weight: bold;
+	color:#666666;	
+}
+
+.tabla .modo1 td {
+padding: 2px;
+border-right-width: 0px;
+border-bottom-width: 0px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #cccccc;
+border-bottom-color: #cccccc;
+
+border-left-width: 0px;
+border-bottom-width: 0px;
+border-left-style: solid;
+border-bottom-style: solid;
+border-left-color: #cccccc;
+border-bottom-color: #cccccc;
+
+}
+
+.tabla .modo1 td:hover 
+{
+color:#000000;
+background-color:#f0f0f0;
+
+
+}
+#div-link {
+    overflow-x:hidden;
+	overflow-y:scroll;	
+    width:205px;
+    height:450px;
+}
+#div-news {
+    overflow-x:hidden;
+	overflow-y:scroll;	
+    width:205px;
+    height:140px;	
+
+}
+
+#div-areas {
+    overflow-x:hidden;
+	overflow-y:scroll;	
+    width:205px;
+    height:260px;
+}
+
+
+
+/*estilo de la pagina NOSOTROS */
+.encabezado-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-nosotros a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:15px;	
+	color:#666666;		
+	font-weight: bold;
+
+ }
+/*estilo de la pagina NOSOTROS */
+.encabezado2-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado2-nosotros a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:15px;	
+	color:#ffffff;		
+	font-weight: bold;
+
+ } 
+/*estilo de la pagina NOSOTROS */
+.contenido-nosotros
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-nosotros a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:12px;	
+	color:#666666;			
+	
+
+ }
+ /*estilo de la pagina NOSOTROS */
+.contenido-nosotros2
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-nosotros2 a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:12px;	
+	color:#666666;			
+	
+
+ }
+ .contenido-nosotros-justificado
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-nosotros-justificado a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:justify;
+	font-size:12px;	
+	color:#666666;			
+	
+
+ }
+ /*estilo "volver"de la pagina NOSOTROS */
+.volver
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.volver a {
+		
+	display:block;
+	text-transform:inherit;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:right;
+	font-size:12px;	
+	color:#666666;		
+	
+
+ }	
+ /* estilo para la sombra de la tabla de servcicios pagina portada */
+ .sombra 
+{ 
+  width:90%;
+  color: #000; 
+  background: #ccc;
+}
+
+.sombra table 
+{ 
+  position: relative; 
+  left: +4px; 
+  top: +4px;
+  width: 100%;
+  background: #ffffff; 
+}
+/*estilo de la pagina portada */
+.encabezado-portada
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-portada a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:12px;	
+	color:#666666;		
+	font-weight: bold;
+
+ }
+/*estilo de la pagina portada */
+.contenido-portada
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-portada a {
+		
+	display:block;
+	text-transform:capitalize;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:12px;	
+	color:#666666;		
+	
+
+ }
+ /* lista de portada*/
+ .encabezado2-portada-lista
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado2-portada-lista a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:12px;	
+	color:#999999;		
+	font-weight: bold;
+
+ }
+ /*estilo de la pagina portada seccion bienvenida */
+.encabezado-portada-bienvenida
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.encabezado-portada-bienvenida a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:12px;	
+	color:#ffffff;		
+	font-weight: bold;
+
+ }
+/*estilo de la pagina portada seccion bienvenida */
+.contenido-portada-bienvenida
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.contenido-portada-bienvenida a {
+		
+	display:block;
+	/*text-transform:capitalize;*/	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:justify;
+	font-size:12px;	
+	color:#ffffff;		
+	
+ }
+ /*estilo formulario contactenos */
+.etiquetas-contactenos
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.etiquetas-contactenos a {
+		
+	display:block;
+	text-transform:capitalize;	
+	padding:5px 0;
+	text-decoration:none;	
+	text-align:left;
+	font-size:12px;	
+	color:#666666;			
+	
+ }
+ /* estilo de la lista superior del index */
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 5px;
+font-family: “Trebuchet MS”, Arial;
+text-decoration:none;
+}
+.tit_mapa
+ { 
+ 	list-style:none;	
+	font-family: “Trebuchet MS”, Arial;
+ }
+.tit_mapa a {
+		
+	display:block;
+	text-transform: uppercase;	
+	padding:10px 0;
+	text-decoration:none;	
+	text-align:center;
+	font-size:14px;	
+	color:#000000;		
+	font-weight: bold;
+		
+	
+ }
